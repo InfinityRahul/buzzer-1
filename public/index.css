@@ -1,0 +1,21 @@
+button {
+	font-size: 10vw;
+}
+#wrapper {
+	font-size: 20vw;
+	position: absolute;
+	top: 50%;
+	margin-top: -10vw;
+	text-align: center;
+	width: 100%;
+}
+#timer {
+	font-size: 10vw;
+}
+#container {
+	position: absolute;
+	top: 50%;
+	margin-top: -15vw;
+	text-align: center;
+	width: 100%;
+}
